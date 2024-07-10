@@ -1,4 +1,7 @@
+<img align="right" src="https://github.com/IonutMotoi/CutPasteSatSeg/assets/32934655/9c1f2776-7d42-4a2d-8444-ac52740d5445" width=30% height=30%>
+
 # CutPasteSatSeg
+
 Repository for the paper "Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery" - IEEE IGARSS 2024
 Official Implementation for ["Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery"](https://arxiv.org/abs/2404.05693) - IEEE IGARSS 2024
 
@@ -14,7 +17,7 @@ pip install -r requirements.txt
 
 ### Step 1: Instance Extraction
 Before using the Cut-and-Paste augmentation, you need to extract instances from your dataset. Use the `generate_cap_dataset.py` script for this purpose.
-
+<br clear="right"/>
 ### Step 2: Instance Pasting
 
 #### Extend your existing dataset class to incorporate the Cut-and-Paste augmentation:
