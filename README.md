@@ -2,8 +2,7 @@
 
 # CutPasteSatSeg
 
-Repository for the paper "Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery" - IEEE IGARSS 2024
-Official Implementation for ["Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery"](https://arxiv.org/abs/2404.05693) - IEEE IGARSS 2024
+Repository for the paper ["Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery"](https://arxiv.org/abs/2404.05693) - IEEE IGARSS 2024
 
 ## Install
 
