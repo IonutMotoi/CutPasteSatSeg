@@ -1,0 +1,15 @@
+# Rest of the configuration file
+# ...
+
+activate: True
+root: ./dataset/cap_dataset/
+classes: [0,1,2,3,4,5] 
+num_of_instances: 100
+augment_instances: True
+
+# 0: "impervious surface",
+# 1: "agriculture",
+# 2: "forest & other vegetation",
+# 3: "wetlands",
+# 4: "soil",
+# 5: "water",

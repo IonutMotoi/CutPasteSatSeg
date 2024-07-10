@@ -1,0 +1,7 @@
+albumentations
+numpy
+PyYAML
+rasterio
+torch
+torchvision
+tqdm
