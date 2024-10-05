@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/IonutMotoi/CutPasteSatSeg/assets/32934655/9c1f2776-7d42-4a2d-8444-ac52740d5445" width=30% height=30%>
 
-# CutPasteSatSeg
+# Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery
 
 Repository for the paper ["Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery"](https://arxiv.org/abs/2404.05693) - IEEE IGARSS 2024
 
