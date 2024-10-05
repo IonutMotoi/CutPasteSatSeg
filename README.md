@@ -73,5 +73,14 @@ cut_and_paste_config = {
 ## Cite
 If you find this work useful in your research, please consider citing:
 ```
-Placeholder. The bibtex will be provided when the IEEE IGARSS 2024 Proceedings will be published.
+@INPROCEEDINGS{10640734,
+  author={Motoi, Ionut M. and Saraceni, Leonardo and Nardi, Daniele and Ciarfuglia, Thomas A.},
+  booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={9802-9806},
+  keywords={Training;Adaptation models;Semantic segmentation;Semantics;Urban planning;Land surface;Satellite images;Semantic Segmentation;Land Use Land Cover;Deep Learning;Data Augmentation;Cut-and-Paste;Copy-Paste;Satellite Remote Sensing},
+  doi={10.1109/IGARSS53475.2024.10640734}}
 ```
